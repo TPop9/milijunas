@@ -1,0 +1,159 @@
+{
+    "easy": [
+        {
+            "question": "Kako se preziva slavna hrvatska skijaška obitelj?", 
+            "answers": ["Kostelić", "Kukoč", "Šuker", "Ivanišević"]
+        },
+        {
+            "question": "Braća Grimm slavni su pisci koje prozne forme?", 
+            "answers": ["Bajki", "Romana", "Drama", "Epova"]
+        },
+        {
+            "question": "Magnet će najlakše privući što?", 
+            "answers": ["Metal", "Plastiku", "Drvo", "Mramor"]
+        },
+        {
+            "question": "Ako nešto nije greda, u žargonu to znači da nije?", 
+            "answers": ["Problem", "Trenutak", "Jasno", "Istina"]
+        },
+        {
+            "question": "Koju titulu dijele povijesni vladari Katarina i Aleksandar?", 
+            "answers": ["Veliki/a", "Moćni/a", "Snažni/a", "Željezni/a"]
+        },
+        {
+            "question": "Srednjovjekovni francuski epski pjevač nazivao se:?", 
+            "answers": ["Bard", "Mušketir", "Trubadur", "Žongler"]
+        },
+        {
+            "question": "Što je strogo zabranjeno u stolnom nogometu?", 
+            "answers": ["Roštiljanje", "Pohanje", "Prženje", "Pečenje"]
+        },
+        {
+            "question": "Koji dio tijela je Ahilova slaba točka?", 
+            "answers": ["Peta", "Rame", "Dlan", "Uho"]
+        },
+        {
+            "question": "Najduži dan u godini je?", 
+            "answers": ["Prvi dan ljeta", "Prvi dan zime", "Prvi dan jeseni", "Prvi dan proljeća"]
+        },
+        {
+            "question": "Što je Isaacu Newtonu navodno pomoglo u definiranju gravitacije?", 
+            "answers": ["Jabuka", "Šljiva", "Krumpir", "Naranča"]
+        },
+        {
+            "question": "Koji superjunak djeluje u Gothamu?", 
+            "answers": ["Batman", "Superman", "Spiderman", "He-man"]
+        },
+        {
+            "question": "Što rade miševi kada mačke odu?", 
+            "answers": ["Vode kolo", "Glođu kosti", "Tresu brda", "Peru robu"]
+        },
+        {
+            "question": "Majicu koji boja pruga najčešće vežemo uz mornare?", 
+            "answers": ["Plavo-bijelih", "Žuto-zelenih", "Crveno-crnih", "Narančasto-smeđih"]
+        },
+        {
+            "question": "U brojalici 'Eci peci pec' ti si mali zec. Što sam ja?", 
+            "answers": ["Mala vjeverica", "Mala vidra", "Mala maca", "Mala kuoka"]
+        },
+        {
+            "question": "Pored koje rijeke su se šetali mama Kukunka, tata Taranta i mali Juju?", 
+            "answers": ["Nila", "Dunava", "Amazone", "Save"]
+        }
+    ],
+    "medium": [
+        {
+            "question": "Koji tip oružja se nalazi na zastavi Mozambika?",
+            "answers": ["Puška", "Pištolj", "Mač", "Koplje"]
+        },
+        {
+            "question": "Način sviranja u kojem prstima trzate po gudačkom instrumentu naziva se...?",
+            "answers": ["Pizzicato", "Alegretto", "Tremolo", "Capriccio"]
+        },
+        {
+            "question": "Joseph-Ignace Guillotin po kojem je nazvana giljotina po zanimanju je bio?",
+            "answers": ["Liječnik", "Pravnik", "Krvnik", "Pogrebnik"]
+        },
+        {
+            "question": "Koja je prva država u kojoj su žene stekle pravo glasa 1893.?",
+            "answers": ["Novi Zeland", "Japan", "Island", "Nizozemska"]
+        },
+        {
+            "question": "Koji tip oružja se nalazi na zastavi Mozambika?",
+            "answers": ["Puška", "Pištolj", "Mač", "Koplje"]
+        },
+        {
+            "question": "Kojom rimom su sročeni stihovi hrvatske himne?", 
+            "answers": ["Unakrsnom", "Parnom", "Obgrljenom", "Nagomilanom"]
+        },
+        {
+            "question": "Kolika je duljina dijagonale pravokutnika širine 3 m i visine 4 m?", 
+            "answers": ["5 m", "6 m", "7 m", "8 m"]
+        },
+        {
+            "question": "S čijim je 'padom' ABBA usporedila 'pad' u ljubav?", 
+            "answers": ["Napoleonovim", "Cezarovim", "Džingis-kanovim", "Atilinim"]
+        },
+        {
+            "question": "Prvi Nesbøovom romanu o Harryju Hole čitatelja vodi u Australiju i upoznaje s abordžinskim mitom o kome?", 
+            "answers": ["Čovjeku šišmišu", "Čovjeku pauku", "Željeznom čovjeku", "Super čovjeku"]
+        },
+        {
+            "question": "Kakav okus imaju sjemenke kakaovca?", 
+            "answers": ["Gorak", "Sladak", "Kiseo", "Slan"]
+        },
+        {
+            "question": "Među afričkima prepoznajte programski jezik!", 
+            "answers": ["Ada", "Ibo", "Hausa", "Zulu"]
+        },
+        {
+            "question": "Koja stotinjak km duga rijeka u Sloveniji utječe u Savu?", 
+            "answers": ["Krka", "Cetina", "Zrmanja", "Neretva"]
+        },
+        {
+            "question": "Koliko je puta u ovom stoljeću privremeni dimnjak bio postavljen na krov Sikstinske kapele?", 
+            "answers": ["Dvaput", "Jednom", "Triput", "Četiri puta"]
+        },
+        {
+            "question": "Nastavite niz! Madonna, Chris Cornell, Jack White i Alicia Keys, Adele, Sam Smith...?", 
+            "answers": ["Billie Eilish", "Ava Max", "Miley Cyrus", "Taylor Swift"]
+        },
+        {
+            "question": "Kojeg je znakovitog datuma rođen Albert Einstein, a umro Stephen Hawking?", 
+            "answers": ["14. ožujka", "12. siječnja", "13. veljače", "15. travnja"]
+        }
+        
+    ],
+    "hard": [
+        {
+            "question": "Kako se zove bend Siniše Vuce osnovan 2004. kojemu je prvi koncert trebao biti na groblju u Kaštelima?",
+            "answers": ["Klanje ljudi", "Pomor stoke", "Najezda gladnih", "Riganje krvi"]
+        },
+        {
+            "question": "Koji je najveći broj punata koje alkar teorijski može postići u tri trčanja?", 
+            "answers": ["18", "9", "12", "15"]
+        },
+        {
+            "question": "Koja muška košarkaška reprezentacija nema medalju sa SP-a?", 
+            "answers": ["Italija", "Grčka", "Turska", "Francuska"]
+        },
+        {
+            "question": "Tko je projektirao staklenu piramidu ispred Louvrea?", 
+            "answers": ["I.M. Pei", "Le Corbusier", "Jørn Utzon", "Frank Lloyd Wright"]
+         },
+        {
+            "question": "Kako glasi latinsko ime morune?", 
+            "answers": ["Huso Huso", "Mujo Mujo", "Haso Haso", "Suljo Suljo"]
+        },
+        {
+            "question": "Kako se piše ime grand slam turnira u Parizu?", 
+            "answers": ["Roland Garros", "Rolland Gaross", "Roland Garross", "Roland Gaross"]
+        },
+        {
+            "question": "const value = -\"51\"+20+\"3\"; Šta dobijemo ako logiramo value?", 
+            "answers": ["-313", "-34", "-51203", "undefined"]
+        }
+
+    ]
+    
+}

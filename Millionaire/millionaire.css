@@ -1,0 +1,85 @@
+.question {
+  margin: auto;
+  margin-top: 2rem;
+  width: 80%;
+  padding: 1.5rem;
+  background-color: blue;
+  color: white;
+  text-align: center;
+  font-size: x-large;
+  border-radius: 20px;
+  border: black 3px solid;
+}
+
+.answer-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.answer {
+  background-color: blue;
+  color: white;
+  
+  font-size: x-large;
+  border-radius: 20px;
+  width: 30%;
+  padding: 1rem;
+  padding-left: 30px;
+  border: black 3px solid;
+}
+
+.option {
+  margin: 1rem;
+  width: 20%;
+  text-align: center;
+}
+
+.answer:hover, .joker:hover {
+  background-color: rgb(46, 46, 212);
+  cursor: pointer;
+}
+
+.left{
+  margin-right: 2rem;
+}
+
+.jokerContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.joker {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 1rem;
+  background-color: blue;
+  color: white;
+  padding: 0.5rem;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  text-align: center;
+  border: black 3px solid;
+}
+
+.usedJoker {
+  background-color: gray;
+}
+.usedJoker:hover {
+  background-color: gray;
+
+  cursor: default;
+}
+
+.removed{
+  opacity: 0;
+}
+
+.removed:hover{
+  cursor: default;
+}
